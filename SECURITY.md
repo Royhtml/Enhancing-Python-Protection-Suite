@@ -1,10 +1,12 @@
 # Python File Protector - Security Policy
 
+<img src = "roy.ico">
+
 ## Version
 **Current Version:** 1.0.0
 
 ## Overview
-Python File Protector (`file_protector.exe`) is a desktop application designed to secure files through encryption and access control. This document outlines the security measures, best practices, and known limitations of the application.
+Python File Protector (`Python File Protector.exe`) is a desktop application designed to secure files through encryption and access control. This document outlines the security measures, best practices, and known limitations of the application.
 
 ## Security Features
 
