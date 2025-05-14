@@ -1,5 +1,7 @@
 # Lisensi Dwi Bakti N Dev
 
+<img src ="roy.ico">
+
 Aplikasi **Python File Protector.exe** dikembangkan oleh Dwi Bakti N Dev untuk melindungi file-file penting Anda dari akses tidak sah dan modifikasi tanpa izin.
 
 ## Hak Cipta
