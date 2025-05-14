@@ -1,6 +1,6 @@
 # Python File Protector
 
-<img src ="roy.ico">
+<center><img src ="roy.ico"></center>
 
 ## Deskripsi Aplikasi
 **Python File Protector** adalah aplikasi sederhana yang digunakan untuk melindungi file Python (.py) dengan cara mengunci atau mengenkripsi file agar tidak mudah diakses atau dimodifikasi oleh pihak yang tidak berwenang.
