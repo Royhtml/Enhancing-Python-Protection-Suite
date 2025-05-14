@@ -45,7 +45,7 @@ Python File Protector (`Python File Protector.exe`) is a desktop application des
 
 ## Reporting Vulnerabilities
 
-If you discover a security vulnerability, please report it via [GitHub Issues](https://github.com/your-repo/issues) or contact the maintainer directly.
+If you discover a security vulnerability, please report it via [[GitHub Issues](https://github.com/your-repo/issues)](https://github.com/Royhtml/Enhancing-Python-Protection-Suite/issues) or contact the maintainer directly.
 
 ## Disclaimer
 
