@@ -37,7 +37,7 @@
 - **Source Version**: Run `python protector.py` in terminal
 
 ### 2. File Selection Interface
-<img src="ui_screenshot.png" width="600" alt="File Selection Interface">
+<img src="Screenshot 2025-05-15 105146.png" width="600" alt="File Selection Interface">
 
 - Click **Browse** to select a Python file (.py)
 - Supported file indicators:
