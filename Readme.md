@@ -194,6 +194,7 @@ For community support:
 - GitHub Discussions
 - Stack Overflow (#python-file-protector)
 - Discord Community
+- Google I/O
 
 ---
 
