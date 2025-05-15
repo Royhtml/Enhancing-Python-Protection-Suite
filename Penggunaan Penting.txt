@@ -1,0 +1,16 @@
+Penggunaan Pada Aplikasi Tersebut Bisa Compile Encrypt Dan dll 
+Dan Akan Update Ke Versi Selanjutnya Yang Lebih Berguna Untuk Orang Lain 
+Aplikasi ini di gunakan untuk mengalahkan AI dalam keamanan  sulit di baca oleh computer
+
+Instalasi Apps .exe :
+
+1) Download Tag Version / Download File Git Version
+2) Download python file protector.exe and roy.ico date access
+3) open and run 
+4) enjoyed Compile encrypt Crypto
+
+Bahaya : Data yang sudah ter encrypt tak akan  computer dan juga tak bisa mengembalikan data yang  ter encrypt
+karna sudah di uji coba pada website uncrypt data dan file tersebut error karna kemanan ketat dari keamanan cyber security
+yang tak mudah di hack dan sdah di cba pada hacker untuk memasukan virus apps ini tidak mudah terjangkit dan akan membaca jika itu virus
+
+Developers : Dwi bakti n dev
