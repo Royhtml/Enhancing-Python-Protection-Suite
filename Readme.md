@@ -95,6 +95,7 @@ config = {
 |---------|--------------------|----------|------------|------|
 | v1.0 Basic | Basic encryption/decryption | ? | 720p | [Watch](https://www.tiktok.com/@royhtml/video/7504196255308926213?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751) |
 | v2.0 Pro | Advanced security features | ? | 720p | [Watch](https://www.tiktok.com/@royhtml/video/7504491357558312197?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751) |
+| v3.0 Ideal | Advanced security features | ? | 720p | [Watch](https://www.tiktok.com/@royhtml/video/7506718454422981893?is_from_webapp=1&sender_device=pc&web_id=7489705398321759751) |
 
 ## Databases dont read AI
 <img src ="https://miro.medium.com/v2/resize:fit:1000/1*yFzcbxwGGAmT9M6lIuPKXg.jpeg">
